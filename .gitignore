@@ -1,4 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
+
+### Infection
+infection.log
+
 ### Composer template
 composer.phar
 /vendor/

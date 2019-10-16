@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":331:{a:2:{s:7:"defects";a:2:{s:44:"Braddle\IntegerTest::testFiveGreaterThanFour";i:3;s:47:"Braddle\IntegerTest::testFourNotGreaterThanFive";i:3;}s:5:"times";a:3:{s:33:"Braddle\PlaceholderTest::testBlah";d:0.003;s:44:"Braddle\IntegerTest::testFiveGreaterThanFour";d:0.003;s:47:"Braddle\IntegerTest::testFourNotGreaterThanFive";d:0.001;}}}

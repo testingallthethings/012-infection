@@ -12,6 +12,6 @@ class MyStringTest extends TestCase
 
         $actual = $mark->toUpperCase();
 
-        $this->assertEquals($expected, $expected);
+        $this->assertEquals($expected, $actual);
     }
 }

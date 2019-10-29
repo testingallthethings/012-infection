@@ -14,6 +14,6 @@ class MyString
 
     public function toUpperCase() : string
     {
-        return strtolower($this->value);
+        return strtoupper($this->value);
     }
 }
